@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ralph Jezrael Salgado - Resume</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f4f4f4;
+    }
+    .container {
+      display: flex;
+      max-width: 1000px;
+      margin: 40px auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .sidebar {
+      background-color: #002b5c;
+      color: white;
+      width: 35%;
+      padding: 30px;
+      box-sizing: border-box;
+    }
+    .sidebar img {
+      width: 100%;
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    .sidebar h2 {
+      margin-top: 0;
+      font-size: 22px;
+    }
+    .sidebar p {
+      margin: 5px 0;
+      font-size: 14px;
+    }
+    .main {
+      background-color: white;
+      width: 65%;
+      padding: 30px;
+      box-sizing: border-box;
+    }
+    .main h1 {
+      margin-top: 0;
+      font-size: 28px;
+      color: #002b5c;
+    }
+    .section {
+      margin-bottom: 25px;
+    }
+    .section h2 {
+      font-size: 20px;
+      color: #002b5c;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 5px;
+      margin-bottom: 10px;
+    }
+    .section ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .section ul li {
+      margin-bottom: 10px;
+    }
+    .bold {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="sidebar">
+      <img src="https://i.pinimg.com/736x/29/02/d9/2902d9005062b45ef332cb96a51e213c.jpg" alt="Ralph Jezrael Salgado">
+      <h2>Contact Information</h2>
+      <p><span class="bold">Phone:</span> 09241205711</p>
+      <p><span class="bold">Email:</span> ralphsalgado4@gmail.com</p>
+      <p><span class="bold">Location:</span> Brgy 69 Caloocan City</p>
+
+
+      <h2>Academic Background</h2>
+      <p><span class="bold">Graceful Rigel College</span><br>Bachelor of Science in Information Technology<br>Graduated in 2028</p>
+      <p><span class="bold">Our Lady of Perpetual Succor College</span><br>Senior High School – STEM Strand<br>Graduated in 2024</p>
+
+
+      <h2>Certifications</h2>
+      <ul>
+        <li>Web Development</li>
+        <li>Cybersecurity</li>
+        <li>Graphic Design</li>
+        <li>Microsoft Office</li>
+      </ul>
+    </div>
+
+
+    <div class="main">
+      <h1>Ralph Jezrael Salgado</h1>
+
+
+      <div class="section">
+        <h2>Profile Summary</h2>
+        <p>Detail-oriented and creatively driven web developer with a strong foundation in front-end design, infrastructure support, and digital branding. Adept at translating complex technical requirements into elegant, user-focused solutions. Strengths include delivering pixel-perfect solutions, optimizing system performance, and maintaining high standards for visual fidelity. Collaborates effectively with cross-functional teams and emphasizes crafting digital experiences that reflect both group identity and personal excellence.</p>
+      </div>
+
+
+      <div class="section">
+        <h2>Professional Experience</h2>
+        <ul>
+          <li>
+            <span class="bold">FRONT-END WEB DEVELOPER - (JULY 2028 - AUGUST 2030)</span><br>
+            - Designed and implement responsive websites using HTML5, CSS3, and JavaScript, ensuring pixel-perfect accuracy across devices.<br>
+            - Collaborated with UI/UX designers to translate wireframes into interative layouts.<br>
+            - Optimized site performance, reducing load times by 40% through code refactoring and image compression.<br>
+            - Maintained brand consistency across multiple client portfolios.
+          </li>
+          <li>
+            <span class="bold">NETWORKING SUPPORT SPECIALIST - (JULY 2029 - AUGUST 2030)</span><br>
+            - Managed LAN/WAN infrastructure for mid-sized enterprise clients, ensuring 99.9% uptime.<br>
+            - Configured routers, switches, and firewalls (Cisco, MikroTik) for secure and efficient data flow.<br>
+            - Conducted regular network audits and implemented improvements based on performace metrics.<br>
+            - Provided Tier 2 support and resolved escalated connectivity issues within SLA targets.
+            <li>
+            <span class="bold">FULL-STACK WEB DEVELOPER - (SEPTEMBER 2029 - AUGUST 2030)</span><br>
+            -Developed dynamic web applications using React.js, Node.js, and Mongo.DB.<br>
+            -Led a team of 3 developers in building a custon CMS for educational institutions.<br>
+            -Integrated RESTful APIs and third-party services for payment and user authentication.
+            -Conducted code reviews and mentored junior developers on best practices.
+          </li>
+        </ul>
+      </div>
+
+
+      <div class="section">
+        <h2>Technical Skills</h2>
+        <ul>
+          <li>HTML, CSS, JavaScript, WordPress</li>
+          <li>Adobe Photoshop, Adobe Illustrator</li>
+          <li>Microsoft Office Suite</li>
+          <li>Network Troubleshooting</li>
+          <li>Cybersecurity Fundamentals</li>
+        </ul>
+
+
+        <div class="section">
+      <h3>References</h3>
+      <div class="reference">
+        <strong>Marielle Shanine Grace Castillo</strong>
+        CEO of Castillio Builders<br>
+        Email: castilliomarielle@gmail.com<br>
+        Phone: 09176238257
+      </div>
+      <div class="reference">
+        <strong>Mary Joy Landero</strong>
+        DEAN of Global Reciprocal Colleges<br>
+        Email: landeromj@gmail.com<br>
+        Phone: 09176238257
+      </div>
+      <div class="reference">
+        <strong>Maru Camacho</strong>
+        CEO of Maru Web<br>
+        Email: camacho.maru@gmail.com<br>
+        Phone: 09176238257
+      </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
